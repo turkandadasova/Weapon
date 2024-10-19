@@ -2,7 +2,6 @@
 {
     internal class Program
     {
-        //tam qesey islemir,max bu qeder yaza bilirem,bunla idare eliyin:(
         static void Main(string[] args)
         {
             Weapon weapon = new Weapon(10,23,false);
